@@ -11,6 +11,11 @@
   "hexo": {
     "version": ""
   },
+  "overrides" : {
+    "nib" : {
+      "stylus" : "0.54.8"
+    }
+  },
   "dependencies": {
     "hexo": "^5.4.2",
     "hexo-generator-archive": "^1.0.0",
